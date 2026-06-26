@@ -96,7 +96,7 @@ My responsibilities included:
 
 ### Home Screen
 
-<img width="818" height="1672" alt="HomeScreen" src="https://github.com/user-attachments/assets/02325dd9-1a8a-4f04-b232-223145eb4068" />
+<img width="406" height="836" alt="HomeScreen" src="https://github.com/user-attachments/assets/02325dd9-1a8a-4f04-b232-223145eb4068" />
 
 
 
